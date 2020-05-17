@@ -1,0 +1,52 @@
+.flex-container{
+    display: flex;
+}
+.box1{
+    width: 15%;
+    padding:2%;
+    margin-right: 3%;
+    justify-content:space-around;
+    background-color: white;
+}
+.box2{
+    width:15%;
+    padding:2%;
+    margin-right:3%;
+    justify-content:space-around;
+    background-color:white;
+}
+.box3{
+    width: 15%;
+    padding:2%;
+    margin-right: 3%;
+    justify-content:space-around;
+    background-color:white;
+}
+.box4{
+    width: 15%;
+    padding:2%;
+    margin-right: 3%;
+    justify-content:space-around;
+    background-color:white;
+}
+#logo {
+    position: relative;
+    top:0.5px;
+    left:15px;
+}
+.box1:hover{
+    box-shadow: 0 0 15px gray;
+    border: 1px solid lightgray;
+}
+.box2:hover{
+    box-shadow: 0 0 15px gray;
+    border: 1px solid lightgray;
+}
+.box3:hover{
+    box-shadow: 0 0 15px gray;
+    border: 1px solid lightgray;
+}
+.box4:hover{
+    border: 1px solid lightgray;
+    box-shadow: 0 0 15px gray;
+}
